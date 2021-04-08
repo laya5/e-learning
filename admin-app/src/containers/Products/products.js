@@ -1,9 +1,6 @@
-import React from 'react'
+import React from "react";
+import Layout from "../../components/layout/all";
 
 export default function Products() {
-	return (
-		<div>
-			<Layout></Layout>
-		</div>
-	)
+  return <Layout sidebar>Products</Layout>;
 }

@@ -1,5 +1,7 @@
 .App {
-  text-align: center;
+  text-align: auto;
+  font-family: "Oswald", sans-serif;
+  margin-left: "20px";
 }
 
 .App-logo {
